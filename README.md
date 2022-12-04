@@ -1,6 +1,6 @@
 ### Welcome to the trisp3ar GitHub
 
-With the uprising of open source technologies, I like to contribute and support the communnity as best as I can and put my skills to good use.
+With the uprising of open-source technologies, I like to contribute and support the communnity as best as I can and put my skills to good use.
 
 ### Main Focus
 
@@ -12,11 +12,12 @@ With the uprising of open source technologies, I like to contribute and support 
 ### Current Projects:
 
 - [Cyberdeck](https://github.com/trisp3ar/Cyberdeck)
+- helping out [JustCallMeKoko](https://github.com/justcallmekoko) with the [ESP32-Marauder](https://github.com/justcallmekoko/ESP32Marauder), [my Fork](https://github.com/trisp3ar/ESP32Marauder)
 
 ### Future Projects:
 
 - Open source active aiming laser/light illuminator
-- Open source Rangefinder for precision rifles and DMR platforms (liek Wilcox RAPTAR-S)
+- Open source Rangefinder for precision rifles and DMR platforms (like Wilcox RAPTAR-S)
 
 <!---
 trisp3ar/trisp3ar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
