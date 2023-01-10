@@ -17,7 +17,8 @@ With the uprising of open-source technologies, I like to contribute and support 
 ### Future Projects:
 
 - Open source active aiming laser/light illuminator
-- Open source Rangefinder for precision rifles and DMR platforms (like Wilcox RAPTAR-S)
+- Open source rangefinder for precision rifles and DMR platforms (like Wilcox RAPTAR-S)
+- Open source universal encryption module for AES-256 encryption of voice audio implemented on an FPGA platform (ref. Paper [A lightweight AES algorithm implementation for encrypting voice messages using field programmable gate arrays](https://reader.elsevier.com/reader/sd/pii/S1319157820304316?token=A09BC0B5DB4B16E62DE370AAE2C9E11FAB1AAD4890C803BB3F484E70FCB18184C3515FB45E0BBCA3A894EE54182F1BA4&originRegion=eu-west-1&originCreation=20230110120201)
 
 <!---
 trisp3ar/trisp3ar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
