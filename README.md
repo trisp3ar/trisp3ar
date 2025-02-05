@@ -1,20 +1,25 @@
 ### Welcome to the trisp3ar GitHub
 
-With the uprising of open-source technologies, I like to contribute and support the communnity as best as I can and put my skills to good use.
+With the uprising of open-source technologies, I like to contribute and support the community as best as I can and put my skills to good use.
 
-### Main Focus
+### Links and Contacts:
+- **Instagram:** [this_german_guy](https://www.instagram.com/this_german_guy/)
+- **GRABCAD:** [Gregor Hermani](https://grabcad.com/gregor.hermani-1)
+
+### Main Focus:
 
 - Embedded Development
-- ⚡💀⚡ Electronic Warefare and Civillian Capability made public and available to everyone
-- Provide support in any way possible
+- ⚡💀⚡ Electronic Warfare and civillian capability made public and available to everyone
+- Provide support and research in any way possible
 - 🌱 I’m currently learning RF with focus on digital protocols and the intricacies of black magic
 
 ### Current Projects:
 
 - 👀 Something undisclosed with themal
-- 🐴 helping out [JustCallMeKoko](https://github.com/justcallmekoko) with the [ESP32-Marauder](https://github.com/justcallmekoko/ESP32Marauder), [my Fork](https://github.com/trisp3ar/ESP32Marauder)
+- 🐴 Helping out [JustCallMeKoko](https://github.com/justcallmekoko) with the [ESP32-Marauder](https://github.com/justcallmekoko/ESP32Marauder), [my Fork](https://github.com/trisp3ar/ESP32Marauder)
+- Antenna testing
 
-### Future Projects:
+### Future Projects I want to do:
 
 - Open source reconnaissance UAS
 - Open source active aiming laser/light illuminator
